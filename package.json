@@ -1,0 +1,19 @@
+{
+  "name": "6-gerarqrcode",
+  "version": "1.0.0",
+  "description": "Criador de qrcode",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GuilhermeGanzarolli/gerarQrcode.git"
+  },
+  "author": "Guilherme Ganzarolli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GuilhermeGanzarolli/gerarQrcode/issues"
+  },
+  "homepage": "https://github.com/GuilhermeGanzarolli/gerarQrcode#readme"
+}
